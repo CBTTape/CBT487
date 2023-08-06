@@ -1,0 +1,4 @@
+2023-08-06 04:50:09.846190 - Initialized conversion of CBT487
+2023-08-06 04:50:09.862175 - Received CBT.V505.FILE487.PDS from FILE487.XMI 
+2023-08-06 04:50:09.864476 - Found @FILE487.txt (text/plain) in CBT.V505.FILE487.PDS, moved to PDS/@FILE487
+2023-08-06 04:50:09.865471 - Found DISP.rexx (text/plain) in CBT.V505.FILE487.PDS, moved to PDS/DISP
